@@ -127,8 +127,8 @@ somthing more interesting is that task of keyword extraction could also benefit 
     方法 -> -535.65
     中 -> -577.80
 
-further more, I use these word weights to modify the [wmd](jmlr.org/proceedings/papers/v37/kusnerb15.pdf), impoving performance of document similarity:
-WMD is Word Mover's Distance, you can learn it from [From Word Embeddings To Document Distances](jmlr.org/proceedings/papers/v37/kusnerb15.pdf).
+further more, I use these word weights to modify the [wmd](jmlr.org/proceedings/papers/v37/kusnerb15.pdf), impoving performance of document similarity: </br>
+WMD is Word Mover's Distance, you can learn it from [From Word Embeddings To Document Distances](jmlr.org/proceedings/papers/v37/kusnerb15.pdf). </br>
 
     //the bad case methioned above turned to be acceptable
     doc.m_word_num = 6;
